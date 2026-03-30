@@ -1,0 +1,18 @@
+[package]
+name = "tcpstream-postgres"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { workspace = true }
+futures = { workspace = true }
+anyhow = { workspace = true }
+apalis = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+apalis-postgres = "1.0.0-rc.6"
+thiserror = "2.0.18"
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+tokio-util = { version = "0.7", features = ["codec"] }
+bytes = "1"
