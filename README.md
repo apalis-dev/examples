@@ -6,7 +6,7 @@ This showcases example usages by other projects on github
 
 - [Bunge Bits](https://github.com/mwananchi-tech/bunge-bits) &ndash; Bunge Bits provides convenient summaries of Kenyan National Assembly and Senate proceedings
 - [Patr](https://github.com/patr-cloud/patr) &ndash; Patr is an open-source, production-grade DevOps automation platform built for fast-moving teams.
-(https://github.com/ImShyMike/rustytime) blazingly fast time tracking for developers
+- [rustytime](https://github.com/ImShyMike/rustytime) blazingly fast time tracking for developers
 - [Plast Mem](https://github.com/moeru-ai/plast-mem) &ndash; Yet Another Memory Layer, inspired by Cognitive Science, designed for Cyber Waifu
 - [Oxy](https://github.com/oxy-hq/oxy) &ndash; Oxygen is the AI data analyst built for speed and precision.
 - [PonziLand](https://github.com/RuneLabsxyz/PonziLand) &ndash; PonziLand is a fully onchain, token-agnostic DeFi metagame where you conquer lands, stake tokens, nuke rivals, and build your empire on Starknet.
@@ -14,7 +14,7 @@ This showcases example usages by other projects on github
 - [OpenZeppelin Relayer](https://github.com/OpenZeppelin/openzeppelin-relayer) &ndash; Relayer service enables interaction with blockchain networks through transaction submissions.
 - [Hatsu](https://github.com/importantimport/hatsu) &ndash; Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
 - [GQ](https://github.com/jorgehermo9/gq) &ndash; GQ is a blazing-fast, open-source filtering tool for JSON and YAML
-- [Summarizer] (https://github.com/akhildevelops/summarizer) &ndash; Podcast and Youtube summarizer
+- [Summarizer](https://github.com/akhildevelops/summarizer) &ndash; Podcast and Youtube summarizer
 - [stamon](https://github.com/krivahtoo/stamon) &ndash; A lightweight self-hosted status monitoring tool, written in Rust.
 - [Universal Inbox](https://github.com/universal-inbox/universal-inbox) &ndash; Universal Inbox is a solution that centralizes all your notifications and tasks in one place to create a unique inbox.
 - [maccas-api](https://github.com/Accurate0/maccas-api) &ndash; McDonald's offer aggregator
