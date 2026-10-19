@@ -35,7 +35,7 @@ Showcase of how to use apalis with frameworks and services.
 A set of high quality real life examples created by the apalis team
 
 - [axum-email-service](https://github.com/apalis-dev/apalis-board/tree/main/examples/axum-email-service) &ndash; Example that shows how to send emails via smtp using lettre and axum + track progress with the [Web UI](https://github.com/apalis-dev/apalis-board) 
-- [actix-ntfy-service](https://github.com/apalis-dev/apalis-board/tree/main/examples/axum-email-service) &ndash; Example that shows how to publish notifications using ntfy.sh and actix + track progress with the [Web UI](https://github.com/apalis-dev/apalis-board) 
+- [actix-ntfy-service](https://github.com/apalis-dev/apalis-board/tree/main/examples/actix-ntfy-service) &ndash; Example that shows how to publish notifications using ntfy.sh and actix + track progress with the [Web UI](https://github.com/apalis-dev/apalis-board) 
 - [poem-graphql-mysql](/poem-graphql-mysql/) &ndash; Example that shows how to setup `poem`, `graphql` and `mysql` including subscriptions
 - [tauri-sqlite](/tauri-sqlite/) &ndash; A reminder application that shows how to setup `tauri`, `sqlite`, `notifications` and `react`
 - [tcpstream-postgres](/tcpstream-postgres/) &ndash; Zero-Copy, Bounded, Backpressure-Aware JSON based and `apalis-postgres` backed background job queue using TcpStream
