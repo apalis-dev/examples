@@ -611,10 +611,10 @@
     postcss "^8.5.6"
     tailwindcss "4.2.2"
 
-"@tauri-apps/api@^2", "@tauri-apps/api@^2.8.0":
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/@tauri-apps/api/-/api-2.10.1.tgz#57c1bae6114ec33d977eb2b50dfefc25fa84fc93"
-  integrity sha512-hKL/jWf293UDSUN09rR69hrToyIXBb8CjGaWC7gfinvnQrBVvnLr08FeFi38gxtugAVyVcTa5/FD/Xnkb1siBw==
+"@tauri-apps/api@^2", "@tauri-apps/api@^2.12.0", "@tauri-apps/api@^2.8.0":
+  version "2.12.4"
+  resolved "https://registry.yarnpkg.com/@tauri-apps/api/-/api-2.12.4.tgz#2bab72b87696ae8dcfb4f4db2119e46a87aeabe0"
+  integrity sha512-pVmfis+4zT8H0Qhp3xPZx9Ju7kpzvA6rr/PSJPyuwfvucTQ8sVt61NYU9KMkK703UFlYadFmjKA4HhybOtN0gg==
 
 "@tauri-apps/cli-darwin-arm64@2.10.1":
   version "2.10.1"
@@ -689,11 +689,11 @@
     "@tauri-apps/cli-win32-x64-msvc" "2.10.1"
 
 "@tauri-apps/plugin-notification@~2":
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/@tauri-apps/plugin-notification/-/plugin-notification-2.3.3.tgz#01581e3abd3bd18200121b213d3e6ebff2967fe2"
-  integrity sha512-Zw+ZH18RJb41G4NrfHgIuofJiymusqN+q8fGUIIV7vyCH+5sSn5coqRv/MWB9qETsUs97vmU045q7OyseCV3Qg==
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@tauri-apps/plugin-notification/-/plugin-notification-2.7.0.tgz#c7d8898f78fe51165a2f2d867bbb7ccb37f81147"
+  integrity sha512-kgdHCPSY/3GIi4gSWuLfd3y555U0kwzP0PmnUjT+sGhgO7RdAM6goFjDqayRaKC8yA5oEYi7w2NnA3oQxIjldw==
   dependencies:
-    "@tauri-apps/api" "^2.8.0"
+    "@tauri-apps/api" "^2.12.0"
 
 "@tauri-apps/plugin-opener@^2":
   version "2.5.3"
