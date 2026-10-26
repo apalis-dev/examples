@@ -75,14 +75,13 @@ dependencies = [
 
 [[package]]
 name = "apalis-board-api"
-version = "1.0.0-rc.6"
+version = "1.0.0-rc.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7aaeda5d8c93c2f2dca1d8f9fb7319295ee3b8a6fff2fb5b3a04da63d346ab77"
+checksum = "873de5584baefd4502afd3c09ff597956f3048a2d87eabede67b60b7c1e97306"
 dependencies = [
  "apalis-board-types",
  "apalis-core",
  "futures",
- "include_dir",
  "serde",
  "serde_json",
  "tokio",
@@ -92,9 +91,9 @@ dependencies = [
 
 [[package]]
 name = "apalis-board-types"
-version = "1.0.0-rc.6"
+version = "1.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "3f19fa2d178cd463817f5e923637a49e0f4c0de185b4066f9d1475924ec74d3a"
+checksum = "43787ec691c851afe6b139544ae8d8f4fc4e0bfaa19083c08721dcdde3178c51"
 dependencies = [
  "serde",
  "thiserror 2.0.18",
@@ -113,9 +112,9 @@ dependencies = [
 
 [[package]]
 name = "apalis-core"
-version = "1.0.0-rc.7"
+version = "1.0.0-rc.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "cbc053b8daf9235fd974cf2a7d7f8ed7ee8108ba1736d3ecce20529d26c32f66"
+checksum = "797af42a40f6bc297365f2fed187b74d089c63641f57ce2a5e0f629db560cb47"
 dependencies = [
  "futures-channel",
  "futures-core",
@@ -2318,25 +2317,6 @@ checksum = "3acae9609540aa318d1bc588455225fb2085b9ed0c4f6bd0d9d5bcd86f1a0344"
 dependencies = [
  "icu_normalizer",
  "icu_properties",
-]
-
-[[package]]
-name = "include_dir"
-version = "0.7.4"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "923d117408f1e49d914f1a379a309cffe4f18c05cf4e3d12e613a15fc81bd0dd"
-dependencies = [
- "include_dir_macros",
-]
-
-[[package]]
-name = "include_dir_macros"
-version = "0.7.4"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7cab85a7ed0bd5f0e76d93846e0147172bed2e2d3f859bcc33a8d9699cad1a75"
-dependencies = [
- "proc-macro2",
- "quote",
 ]
 
 [[package]]
