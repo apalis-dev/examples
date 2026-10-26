@@ -184,9 +184,9 @@ dependencies = [
 
 [[package]]
 name = "apalis-sqlite"
-version = "1.0.0-rc.6"
+version = "1.0.0-rc.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7ebcedb69ac0699cc34bb0a89a0721e0364b53b7eceac772d1e5ace80358184d"
+checksum = "bbd66ac4c17dd7b25050c8f02ecde2967cb91baa9b631211a19334851fe4d618"
 dependencies = [
  "apalis-codec",
  "apalis-core",
